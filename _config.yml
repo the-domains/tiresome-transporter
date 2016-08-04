@@ -1,4 +1,3 @@
-layout_spectrum: 0.07965033780783415
 typography_spectrum: 0.9256607491988689
 color:
   brandStrength: 0.6569085211958736
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.07965033780783415
 name: tiresome transporter
 title: My Grid
+description: The future of website creation
